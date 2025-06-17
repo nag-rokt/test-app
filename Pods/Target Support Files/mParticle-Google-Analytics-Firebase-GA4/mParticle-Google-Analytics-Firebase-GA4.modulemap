@@ -1,0 +1,6 @@
+framework module mParticle_Google_Analytics_Firebase_GA4 {
+  umbrella header "mParticle-Google-Analytics-Firebase-GA4-umbrella.h"
+
+  export *
+  module * { export * }
+}
